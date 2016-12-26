@@ -1,0 +1,13 @@
+.a {
+  width:  700px;
+  margin:0 auto;
+overflow: hidden;
+}
+
+.b {
+  float: right;
+}
+
+.logo {
+  float: left;
+}

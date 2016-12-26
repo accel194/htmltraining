@@ -1,0 +1,40 @@
+ th {
+      text-align:left;
+      border-bottom: 1px solid #666;
+      background-color:#eee;
+      padding: 10px;
+    }
+    td {
+      border-bottom: 1px solid #666;
+      padding: 10px;
+    }
+    td:nth-child(1) {
+      font-size: 140%;
+      font-weight:bold;
+      padding-left: 30px;
+      width:100px;
+    }
+    td:nth-child(2) {
+      width:200px;
+    }
+    td:nth-child(3) {
+      text-align:right;
+      width:50px;
+    }
+    td:nth-child(4) {
+      text-align:right;
+      margin-right:10px;
+      width:80px;
+    }
+    th:nth-child(3) {
+      text-align:center
+    }
+    .matsu {
+      color: #3333ff;
+    }
+    .take {
+      color: green;
+    }
+    .ume {
+      color: #ff6666
+    }

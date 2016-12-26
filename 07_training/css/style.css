@@ -1,0 +1,14 @@
+container {
+  width:700px;
+}
+
+.head {
+  font-size:180%;
+  color: #00a36d;
+  font-weight:bold;
+}
+
+.foot {
+  tet-align:center;
+  margin-top:20px;
+}
