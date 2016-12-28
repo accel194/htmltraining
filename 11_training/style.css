@@ -1,19 +1,26 @@
 #container {
+  border: 1px solid #000;
   background-color: red;
   width: 1020px; 
   text-align: center;
 }
 .header {
-  background-color: darkseagreen;
+  text-align: left;
+  border: 1px solid #000;
+  background-color: lightgreen;
   height: 300px;
 }
 .nav{
+  text-align: left;
+  border: 1px solid #000;
   background: blue;
   height: 50px;
   margin-bottom: 10px;
 }
 
 .aside{
+  text-align: left;
+  border: 1px solid #000;
   background: skyblue;
   width: 300px;
   height: 500px;
@@ -22,6 +29,8 @@
 }
 
 .article{
+  text-align :left;
+  border: 1px solid #000;
   background: yellow;
   width: 670px;
   height: 500px;
@@ -32,6 +41,7 @@
 }
 
 .footer{
+  text-align: left;
  clear:both;
   background: pink;
   height: 200px
