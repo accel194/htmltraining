@@ -1,0 +1,43 @@
+.header {
+  text-align: left;
+  border: 1px solid #000;
+  background-color: pink;
+  height: 100px;
+  }
+  
+.main{float: right;
+  }
+  h4{text-align: left;
+  border: 1px solid #000;
+  background-color: gray;
+  height: 20px;
+  }
+  .a {
+  width:  700px;
+  margin:0 auto;
+overflow: hidden;
+}
+
+.b {
+  float: right;
+}
+
+.logo {
+  float: left;
+}
+.logo-right {
+  float: right;
+}
+
+.b-left {
+  float: left;
+}
+
+.sidebar{
+  float: left;
+}
+.aside{
+  float: left;
+}
+  
+  
