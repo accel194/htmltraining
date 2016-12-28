@@ -9,8 +9,7 @@
   width: 100px;
   height: 100px;
   background: yellow;
-  float: left;
-  overflow: hidden;
+  float: left
 }
 .right {
   width: 200px;
@@ -18,7 +17,6 @@
   background: red;
   float: right;
 }
-
 .bottom {
   width: 350px;
   height: 30px;
