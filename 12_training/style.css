@@ -4,40 +4,36 @@
   background-color: pink;
   height: 100px;
   }
-  
-.main{float: right;
+ .aside{
+  float: left;
+  width: 300px;
   }
-  h4{text-align: left;
+  .main{
+    float: right;
+　}
+  h4{font-size: 20px;
+    text-align: left;
   border: 1px solid #000;
   background-color: gray;
-  height: 20px;
-  }
+}
   .a {
-  width:  700px;
+  width: 900px;
   margin:0 auto;
 overflow: hidden;
 }
-
-.b {
+  .b {font-size:25px;
   float: right;
 }
-
-.logo {
+  .logo {width: 300px;
   float: left;
 }
-.logo-right {
+.logo-right {width: 300px;
   float: right;
 }
-
-.b-left {
+  .b-left {font-size: 25px;
   float: left;
 }
 
-.sidebar{
-  float: left;
+li{font-size: 20px;
+  margin-bottom: 1em;
 }
-.aside{
-  float: left;
-}
-  
-  
