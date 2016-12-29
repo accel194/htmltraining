@@ -1,3 +1,6 @@
+#container {
+  width: 72%;
+}
 .header {
   text-align: left;
   border: 1px solid #000;
@@ -5,10 +8,11 @@
 }
 .aside{
   float: left;
-  width: 300px;
+  width: 25%;
 }
 .main{
   float: right;
+  width:70%;
 }
 h4{
   text-align: left;
@@ -16,7 +20,6 @@ h4{
   background-color: gray;
 }
 .a {
-  width: 900px;
   margin:0 auto;
 　overflow: hidden;
 }
