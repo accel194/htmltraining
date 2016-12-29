@@ -1,0 +1,38 @@
+#container {background: #EEEEEE ;
+margin: 0px;
+}
+.header {background: #DDDDDD;
+margin : 40px;
+text-align: justify;
+}
+.rayout {
+  text-align: left;
+  background-color: pink;
+  height: 300px;
+　}
+  h4{font-size: 30px;
+    text-align: left;
+  background-color: gray;
+  margin: 40px;
+}
+ .a {
+  width: 900px;
+  margin:0 auto;
+overflow: hidden;
+}
+  .b {font-size:25px;
+  float: right;
+}
+  .logo {width: 270px;
+  float: left;
+}
+.logo-right {width: 270px;
+  float: right;
+}
+  .b-left {font-size: 25px;
+  float: left;
+}
+  .footer{height: 300px;
+  background: gray;
+  margin: 40px;
+  }

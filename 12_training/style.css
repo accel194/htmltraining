@@ -2,38 +2,38 @@
   text-align: left;
   border: 1px solid #000;
   background-color: pink;
-  height: 100px;
-  }
- .aside{
+}
+.aside{
   float: left;
   width: 300px;
-  }
-  .main{
-    float: right;
-　}
-  h4{font-size: 20px;
-    text-align: left;
+}
+.main{
+  float: right;
+}
+h4{
+  text-align: left;
   border: 1px solid #000;
   background-color: gray;
 }
-  .a {
+.a {
   width: 900px;
   margin:0 auto;
-overflow: hidden;
+　overflow: hidden;
 }
-  .b {font-size:25px;
+.b {
   float: right;
 }
-  .logo {width: 270px;
+.logo {width: 270px;
   float: left;
 }
 .logo-right {width: 270px;
   float: right;
 }
-  .b-left {font-size: 25px;
+.b-left {
   float: left;
 }
 
-li{font-size: 20px;
+li{
   margin-bottom: 1em;
+  list-style-type:none;
 }
