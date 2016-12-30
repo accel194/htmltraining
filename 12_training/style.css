@@ -1,5 +1,5 @@
 #container {
-  width: 72%;
+  width: 950px;
 }
 .header {
   text-align: left;
@@ -26,7 +26,7 @@ h4{
 .b {
   float: right;
 }
-.logo {width: 270px;
+.logo {
   float: left;
 }
 .logo-right {width: 270px;
