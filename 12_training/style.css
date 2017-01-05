@@ -21,7 +21,7 @@ h4{
 }
 .a {
   margin:0 auto;
-　overflow: hidden;
+  overflow: hidden;
 }
 .b {
   float: right;
@@ -29,7 +29,8 @@ h4{
 .logo {
   float: left;
 }
-.logo-right {width: 270px;
+.logo-right {
+  width: 270px;
   float: right;
 }
 .b-left {
