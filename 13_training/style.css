@@ -10,6 +10,7 @@
   text-align: left;
   background-color: pink;
   height: 300px;
+  margin: 40px;
 　}
 h4{
   font-size: 30px;
@@ -23,7 +24,6 @@ h4{
   overflow: hidden;
 }
 .b {
-  font-size:25px;
   float: right;
 }
 .logo {
@@ -35,7 +35,6 @@ h4{
   float: right;
 }
 .b-left {
-  font-size: 25px;
   float: left;
 }
 .footer{
@@ -43,7 +42,12 @@ h4{
   background: gray;
   margin: 40px;
   }
+ul {
+  overflow: hidden;
+}
 li{
   margin-bottom: 30px;
-  display: inline-block;
+  /*display: inline-block;*/
+  float: left;
+  width: 20%;
 }
