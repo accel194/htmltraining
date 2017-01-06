@@ -1,5 +1,5 @@
 #container {
-  width: 950px;
+  width: 1200px;
 }
 .header {
   text-align: left;
@@ -8,11 +8,11 @@
 }
 .aside{
   float: left;
-  width: 25%;
+  width: 20%;
 }
 .main{
   float: right;
-  width:70%;
+  width:60%;
 }
 h4{
   text-align: left;
