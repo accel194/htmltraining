@@ -1,7 +1,22 @@
 .menu-item{
-margin-left: 10px;
+  width: 170px;
+  height: 25px;
+margin-left: 2px;
 float: left;
-background-color: #EEEEEE;
-color: black;
+background-color: #f5f5f5;
+text-align: center;
 list-style:none;
+border-bottom: solid 4px silver;
+}
+.menu-item:hover{
+  border-bottom: solid 4px #00ced1;
+}
+a {
+  color: #00ced1;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu-item:active{
+  border: solid 3px skyblue;
 }
