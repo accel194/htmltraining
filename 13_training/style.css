@@ -1,25 +1,35 @@
 #container {
+  padding: 40px;
   background: #EEEEEE ;
-  }
-h1 {
-  margin-left: 40px;
 }
 .header {
+  margin: 0px;
   background: #DDDDDD;
-  margin : 40px;
+  height: 50px;
   text-align: justify;
 }
+.menu {
+  padding-top: 10px;
+  overflow: hidden;
+  list-style:none;
+  text-align: center
+}
+.menu-list {
+  margin-bottom: 30px;
+  /*display: inline-block;*/
+  float: left;
+  width: 20%;
+}
 .rayout {
+  margin: 0px;
   text-align: left;
   background-color: pink;
   height: 300px;
-  margin: 40px;
 　}
 h4{
   font-size: 30px;
   text-align: left;
   background-color: gray;
-  margin: 40px;
 }
 .a {
   width: 900px;
@@ -43,15 +53,4 @@ h4{
 .footer{
   height: 300px;
   background: gray;
-  margin: 40px;
   }
-.menu {
-  overflow: hidden;
-  list-style:none;
-}
-.menu-list {
-  margin-bottom: 30px;
-  /*display: inline-block;*/
-  float: left;
-  width: 20%;
-}
