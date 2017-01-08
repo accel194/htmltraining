@@ -25,7 +25,6 @@
   width: 300px;
   height: 500px;
   float: left;
-  overflow: hidden;
 }
 
 .article{
@@ -37,12 +36,11 @@
   margin-left: 46px;
   margin-bottom: 10px;
   float: right;
-  overflow: hidden;
 }
 
 .footer{
   text-align: left;
- clear:both;
+  clear:both;
   background: pink;
   height: 200px
 }
