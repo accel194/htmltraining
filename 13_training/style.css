@@ -3,10 +3,12 @@
   background: #EEEEEE ;
 }
 .header {
-  margin: 0px;
   background: #DDDDDD;
   height: 50px;
   text-align: justify;
+}
+h1{
+  margin: 0px;
 }
 .menu {
   padding-top: 10px;
@@ -21,7 +23,6 @@
   width: 20%;
 }
 .rayout {
-  margin: 0px;
   text-align: left;
   background-color: pink;
   height: 300px;
