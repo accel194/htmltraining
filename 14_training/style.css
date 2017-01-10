@@ -13,17 +13,12 @@
   text-decoration: none;
   font-size: 17px;
   font-weight:bold;
-   border-bottom: solid 3px  silver;
-   display: block;
+  border-bottom: solid 3px  silver;
+  display: block;
 }
 .menu-item a:hover{
-  width: 170px;
-  height: 23px;
   border-bottom-color:  #00ced1;
-  display: block;
 }
-.menu-item :active{
-  border: solid 2px skyblue;
-  overflow: hidden;
-  display: block;
+.menu-item a:active{
+  border: solid 3px skyblue;
 }
