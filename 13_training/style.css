@@ -30,13 +30,14 @@ h1{
   background-color: pink;
   height: 300px;
 　}
-h4{
+.c {
+  margin-top: 20px;
   font-size: 30px;
   text-align: left;
   background-color: gray;
 }
 .a {
-  width: 900px;
+  width: 70%;
   margin:0 auto;
   overflow: hidden;
 }
@@ -44,11 +45,9 @@ h4{
   float: right;
 }
 .logo {
-  width: 270px;
   float: left;
 }
 .logo-right {
-  width: 270px;
   float: right;
 }
 .b-left {
