@@ -1,0 +1,60 @@
+#container {
+  width: 1000px;
+  padding: 40px;
+  margin: 0 auto;
+  background: #EEEEEE ;
+}
+.header {
+  background: #DDDDDD;
+  height: 50px;
+  text-align: justify;
+}
+h1{
+  margin: 0px;
+}
+.menu {
+  padding: 15px;
+  margin: 0px;
+  overflow: hidden;
+  list-style:none;
+  text-align: center
+}
+.menu-list {
+  margin-bottom: 30px;
+  /*display: inline-block;*/
+  float: left;
+  width: 20%;
+}
+.rayout {
+  text-align: left;
+  background-color: pink;
+  height: 300px;
+　}
+.c {
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: left;
+  background-color: gray;
+}
+.a {
+  width: 70%;
+  margin:0 auto;
+  overflow: hidden;
+}
+.b {
+  float: right;
+}
+.logo {
+  float: left;
+}
+.logo-right {
+  float: right;
+}
+.b-left {
+  float: left;
+}
+.footer{
+  height: 300px;
+  background: gray;
+  margin-top: 20px;
+  }

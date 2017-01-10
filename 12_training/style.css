@@ -1,0 +1,43 @@
+#container {
+  width: 1000px;
+  margin: 0 auto;
+}
+.header {
+  text-align: left;
+  border: 1px solid #000;
+  background-color: pink;
+}
+.aside{
+  float: left;
+  width: 25%;
+}
+.main{
+  float: right;
+  width:68%;
+}
+h4{
+  text-align: left;
+  border: 1px solid #000;
+  background-color: gray;
+}
+.a {
+  margin:0 auto;
+  overflow: hidden;
+}
+.b {
+  float: right;
+}
+.logo {
+  float: left;
+}
+.logo-right {
+  float: right;
+}
+.b-left {
+  float: left;
+}
+
+li{
+  margin-bottom: 1em;
+  list-style-type:none;
+}
